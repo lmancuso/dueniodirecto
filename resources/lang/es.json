@@ -1,0 +1,21 @@
+{
+    "Buy": "Compra",
+    "Rent": "Alquiler",
+    "Login": "Ingresar",
+    "Register": "Registrarme",
+    "Ventures": "Consejos",
+    "New_Post": "Publicar Aviso",
+    "Type": "Tipo",
+    "Operation": "Operación",
+    "Description": "Descripción",
+    "Price": "Precio",
+    "Logout": "Salir",
+    "Profile": "Mi Perfil",
+    "Name": "Nombre",
+    "Lastname": "Apellido",
+    "Phone": "Teléfono",
+    "Password": "Contraseña",
+    "E-Mail Address": "Correo Electrónico",
+    "Confirm Password": "Confirmar Contraseña",
+    "Update": "Actualizar"
+}
