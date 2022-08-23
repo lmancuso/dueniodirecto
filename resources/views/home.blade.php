@@ -4,7 +4,7 @@
 
 <main>
 
-    <section class="py-5 text-center container">
+    <section class="text-center container border rounded-pill">
       
       <form method="POST" action="{{ route('login') }}">
         Zona
@@ -23,18 +23,10 @@
           <option value="2">Venta</option>
           <option value="3">Emprendimiento</option>
         </select>          
-        <input type="submit" value="Enviar" />
-      </form>
-
-      <div class="input-group">
-        <div class="form-outline">
-          <input type="search" id="form1" class="form-control" />
-          <label class="form-label" for="form1"></label>
-        </div>
-        <button type="button" class="btn btn-primary">
-          <i class="fas fa-search"></i>
+        <button class="btn btn-primary"> 
+          <i class="fa fa-search"></i>  
         </button>
-      </div>
+      </form>
 
     </section>
   

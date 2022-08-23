@@ -49,7 +49,7 @@ class User extends Authenticatable
     ];
 
     /**
-     * Get the properties for the user.
+     * Get all properties for the user.
      */
     public function properties(){
         return $this->hasMany(Property::class);
