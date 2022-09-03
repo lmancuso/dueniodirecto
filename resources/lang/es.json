@@ -17,5 +17,10 @@
     "Password": "Contraseña",
     "E-Mail Address": "Correo Electrónico",
     "Confirm Password": "Confirmar Contraseña",
-    "Update": "Actualizar"
+    "Update": "Actualizar",
+    "Type_of_operation": "Tipo De Operación",
+    "Type_of_property": "Tipo De Propiedad",
+    "Location": "Ubicación",
+    "Forgot Your Password?": "No recuerdo mi contraseña",
+    "Remember Me": "Recordar Ingreso"
 }

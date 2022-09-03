@@ -28,6 +28,7 @@ return new class extends Migration
             $table->boolean('duenio_directo');
             $table->boolean('inmobiliaria');
             $table->boolean('apto_profesional');
+            $table->boolean('luminoso');
             $table->boolean('agua_corriente');
             $table->boolean('aire_acondicionado');
             $table->boolean('cloacas');
